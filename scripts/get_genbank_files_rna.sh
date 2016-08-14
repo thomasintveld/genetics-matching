@@ -7,10 +7,11 @@
 # Thomas in't Veld 2016-03-26
 #
 #
-#
+# run in 'scripts' folder or check definition of LOC below
+
 
 species=$1
-LOC=~/genetics-matching/aggregate-gc/
+LOC=../aggregate-gc/
 
 cd $LOC
 
